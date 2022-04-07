@@ -1,0 +1,15 @@
+makefile:
+  link: "https://raw.githubusercontent.com/Luxzi/cpp-example-makefile/main/Makefile"
+  get: False
+
+tree:
+  0: "bin/release"
+  1: "bin/debug"
+  2: "inc"
+  3: "lib"
+
+files:
+  0: "main.cpp"
+
+commands:
+  0: "echo Initilization complete"

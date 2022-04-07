@@ -1,0 +1,11 @@
+(Can be installed with "pip install pyyaml". Python 3 is required)
+Python Dependencies:
+pyyaml
+
+(Can be installed with "sudo pacman -S package-name" on Arch based distros)
+Linux Dependencies:
+curl
+touch
+python3
+python-pip
+make
