@@ -101,4 +101,4 @@ Note: This requires index 0 of files in ``config.yaml`` to be ``main.cpp`` and t
 
 ## Optional config file options
 
-*Not implemented yet*
+There are no default optional config file options but plugins can create them.
