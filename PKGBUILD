@@ -7,7 +7,7 @@ pkgdesc='Initialize your projects with one command. Easy, Customizable, Flexable
 arch=('any')
 url="https://github.com/Luxzi/einit"
 license=('GPL3')
-depends=('python3' 'python-pip' 'curl' 'touch')
+depends=('python3' 'python-pip' 'curl')
 md5sums=('SKIP')
 
 source=("${pkgname}"::'git://github/Luxzi/einit.git')
