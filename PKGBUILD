@@ -10,7 +10,7 @@ license=('GPL3')
 depends=('python3' 'python-pip' 'curl')
 md5sums=('SKIP')
 
-source=("${pkgname}"::'git://github/Luxzi/einit.git')
+source=("${pkgname}"::'https://github/Luxzi/einit.git')
 
 pkgver() {
   cd "$srcdir/${pkgname}"
