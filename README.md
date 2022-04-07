@@ -4,7 +4,7 @@
 v1.7-release
 
 ## Installation
-Install all the required dependencies listed in ``deps.txt`` then run ``make``. Make sure to reload your terminal(s) to update the bash aliases.
+Download the ``PKGBUILD`` file and run ``makepkg`` in the folder you downloaded it in.
 
 ## Updating
 [Check here](https://github.com/Luxzi/linux-minitools#updating-tools)
