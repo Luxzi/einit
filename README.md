@@ -6,6 +6,12 @@ v1.7-release
 ## Installation
 Install all the required dependencies listed in ``deps.txt`` then run ``make``. Make sure to reload your terminal(s) to update the bash aliases.
 
+## Updating
+[Check here](https://github.com/Luxzi/linux-minitools#updating-tools)
+
+## Contributing
+[Check here](https://github.com/Luxzi/linux-minitools#contributing-and-reporting-bugs)
+
 ## Usage
 Run einit using the terminal in the directory you'd like to create your project in, you can also specifiy the name of a file in the ``/etc/einit`` folder to be used as a config file eg. ``einit cpp``. If you'd like to modify the way **einit** works edit its config file in ``/etc/einit/config.yaml``.
 
