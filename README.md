@@ -1,18 +1,9 @@
 # einit
 **Initialize your projects with one command. Easy, Customizable, Flexable, Fast.**
 
-v1.7-release
+v1.7-expiremental
 
 ## Installation
-
-### Using the PKGBUILD (_Arch Linux_)
-Download the ``PKGBUILD`` file and run ``makepkg`` in the folder you downloaded it in.
-
-### Using the install.sh (_Linux_)
-Download the ``install.sh`` file and give it execute permissions using ``chmod +x install.sh`` now run it using ``sudo ./install.sh`` (Feel free to replace ``sudo`` with your prefered privilege escalation utility such as ``doas``)
-
-### Using the ebuild (_Gentoo Linux_)
-``Coming soon``
 
 ### Using the install.bat (_Windows_) **Experimental**
 See the [windows branch](https://github.com/Luxzi/einit/tree/windows) for details
