@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue May 17 18:41:46 2022
+# Make data base, printed on Wed May 18 18:12:32 2022
 
 # Variables
 
@@ -27,9 +27,9 @@ VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
 # environment
 LOCALAPPDATA = C:\Users\lesso\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-153647a5-a89c-4e65-922a-01b9e6a11943-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-c35a2ff5-b591-4e9e-b8ad-581a60978e3a-sock
 # environment
-VSCODE_CWD = D:\GitHub\einit
+VSCODE_CWD = C:\Users\lesso\AppData\Local\Programs\Microsoft VS Code
 # environment
 CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
 # environment
@@ -37,7 +37,7 @@ SYSTEMROOT = C:\Windows
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-PSMODULEPATH = C:\Users\lesso\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
 # default
 MAKE_COMMAND := C:/Users/lesso/scoop/apps/make/current/bin/make.exe
 # environment
@@ -45,7 +45,7 @@ GOPATH = C:\Users\lesso\go
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_26648_KRGRNGKCVVCVKUNK
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_15428_HDFQCEIIVMXTNIGD
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -107,7 +107,7 @@ MAKEFILE_LIST :=
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 26648
+VSCODE_PID = 15428
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -163,9 +163,7 @@ COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
 # environment
 PROGRAMW6432 = C:\Program Files
 # environment
-PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
-# environment
-ALACRITTY_LOG = C:\Users\lesso\AppData\Local\Temp\Alacritty-14204.log
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
 # automatic
 +F = $(notdir $+)
 # environment
@@ -195,8 +193,6 @@ HOMEDRIVE = C:
 # environment
 VULKAN_SDK = C:\VulkanSDK\1.3.204.0
 # environment
-COLORTERM = truecolor
-# environment
 PROCESSOR_ARCHITECTURE = x86
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
@@ -206,8 +202,6 @@ COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\lesso\AppData\Local\Temp
-# environment
-TERM = xterm-256color
 # environment
 VSCODE_IPC_HOOK = \\.\pipe\3ac17edda788c3ccfdc4db9a13a56e9b-1.67.1-main-sock
 # default
@@ -220,10 +214,6 @@ SUFFIXES :=
 ALLUSERSPROFILE = C:\ProgramData
 # environment
 SESSIONNAME = Console
-# environment
-VSCODE_CLI = 1
-# environment
-ELECTRON_NO_ATTACH_CONSOLE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
 # environment
@@ -235,7 +225,7 @@ CHOCOLATEYTOOLSLOCATION = C:\tools
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
 # variable set hash-table stats:
-# Load=111/1024=11%, Rehash=0, Collisions=16/134=12%
+# Load=106/1024=10%, Rehash=0, Collisions=14/129=11%
 
 # Pattern-specific Variable Values
 
@@ -243,7 +233,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
 
 # Directories
 
-# . (key d:/GitHub/einit, mtime 1652826522): 8 files, no impossibilities.
+# . (key d:/GitHub/einit, mtime 1652835353): 8 files, no impossibilities.
 
 # 8 files, no impossibilities in 1 directories.
 
@@ -308,6 +298,6 @@ GNUmakefile:
 # strcache performance: lookups = 18 / hit rate = 16%
 # hash-table stats:
 # Load=15/8192=0%, Rehash=0, Collisions=0/18=0%
-# Finished Make data base on Tue May 17 18:41:46 2022
+# Finished Make data base on Wed May 18 18:12:32 2022
 
  
