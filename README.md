@@ -5,8 +5,9 @@ v1.7-expiremental
 
 ## Installation
 
-### Using the install.bat (_Windows_) **Experimental**
-See the [windows branch](https://github.com/Luxzi/einit/tree/windows) for details
+### Using the einit-bootstrapper (_Windows_) **Experimental**
+
+Download the latest version from the releases and run it.
 
 ## Updating
 Since this program is not a package you'll have to update it manually. This can be done by downloading the ``Makefile`` and running ``make uninstall`` then following the normal install instructions.
